@@ -4,7 +4,7 @@ Face Recognition Door Lock System
 
 THIS IS THE COMPLETE REPO FOR FACE RECOGNITION DOOR LOCK SYSTEM USING RASPBERRY PI
 
-STEP 1: Create a Folder "Face Recognition" or some thing u want.
+# STEP 1: Create a Folder "Face Recognition" or some thing u want.
 # STEP 2: Create another folder called "datasets" and in that Folder Create Another Folder with person name "example"
 # STEP 3: Download all the the Files in Repo and paste it in the "Face Recognition" Folder
 # STEP 4: NOW open Terminal of Raspberry pi navigate to the folder Face Recognition----------> cd "Face Recognition"
